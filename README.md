@@ -1,6 +1,6 @@
 #docker couchpotato
 
-This is a Dockerfile to set up "CouchPotato" - (https://couchpota.to/)
+This is a dockerfile to set up "CouchPotato" - (https://couchpota.to/)
 
 Build from docker file
 
